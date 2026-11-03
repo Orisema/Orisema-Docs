@@ -10,3 +10,9 @@ A documentação técnica completa continua versionada no [repositório Orisema 
 - [Compatibilidade](https://github.com/Orisema/Orisema-Infrastructure/blob/main/docs/COMPATIBILITY.md)
 
 > Conteúdo centralizado e sincronização automática com os repositórios de origem serão etapas posteriores.
+
+## Guias disponíveis neste portal
+
+- [Visão geral](./infrastructure/index.md)
+- [Instalação e verificação](./infrastructure/installation.md)
+- [Primeiros passos](./infrastructure/quickstart.md)
